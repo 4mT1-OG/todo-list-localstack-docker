@@ -11,7 +11,6 @@ function App() {
       </header>
       <main>
         <TodoList />
-        <ImageUpload /> {/* Add the ImageUpload component here */}
       </main>
       <footer>
         <p>&copy; 2024 My To-Do App</p>
