@@ -33,7 +33,7 @@ git clone https://github.com/dockersamples/todo-list-localstack-docker
 ```
 git checkout todo-list-simple
 ```
-```
+
 
 3.  Run the Mongo container
 
