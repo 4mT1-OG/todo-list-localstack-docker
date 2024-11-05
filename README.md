@@ -41,8 +41,14 @@ git clone https://github.com/dockersamples/todo-list-localstack-docker
 3. Navigate into the project.
 
 ```
+<<<<<<< HEAD
 cd todo-list-localstack-docker
 ```
+=======
+git checkout todo-list-simple
+```
+
+>>>>>>> a86d6aa (Update README.md)
 
 
 ## Run the app natively
